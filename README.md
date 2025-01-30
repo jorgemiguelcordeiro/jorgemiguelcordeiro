@@ -8,15 +8,15 @@
 ## 📂 **My Main Repositories**  
 
 🔹 **Machine Learning & Data Science**  
-- 📊 [**Machine-Learning-Projects**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Projects) - Collection of ML projects using Jupyter Notebooks.  
-- 🤖 [**ML_Interface**](https://github.com/jorgemiguelcordeiro/ML_Interface) - Interactive ML application for predictions.  
-- 📈 [**Statistics-for-Data-Science**](https://github.com/jorgemiguelcordeiro/Statistics-for-Data-Science) - Statistical analysis techniques for Data Science.  
+- 📊 [**Machine-Learning-Projects**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Projects) 
+- 🤖 [**ML_Interface**](https://github.com/jorgemiguelcordeiro/ML_Interface) 
+- 📈 [**Statistics-for-Data-Science**](https://github.com/jorgemiguelcordeiro/Statistics-for-Data-Science) 
 
 🔹 **SQL & Data Engineering**  
-- 🗃️ [**SQL-project-Storing-and-Retrieving-Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-) - SQL-based train management system.  
+- 🗃️ [**SQL-project-Storing-and-Retrieving-Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-) 
 
 🔹 **Data Mining & Analytics**  
-- ⛏️ [**Data-Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining) - Machine Learning models and insights from large datasets.  
+- ⛏️ [**Data-Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining)
 
 ---
 
