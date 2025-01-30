@@ -5,7 +5,7 @@
 
 ---
 
-## 📂 **My Main Repositories**  
+# 📂 **My Main Repositories**  
 
 🔹 **Machine Learning & Data Science**  
 - 📊 [**Machine-Learning-Projects**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Projects) 
