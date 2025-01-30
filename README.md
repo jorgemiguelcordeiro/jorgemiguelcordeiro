@@ -1,7 +1,24 @@
 ![Banner](image.png)
+
 # 💫 About Me:
 🔭 I'm currently working in my master on: Building scalable Machine Learning and Data Engineering solutions.<br>🤝 I'm looking to collaborate on: Open-source projects related to ML Engineering, MLOps, and Big Data.<br>🌱 I'm currently learning: Reinforcement Learning, Text Mining, and Cloud-based MLOps strategies.<br>💬 Ask me about: Data Science, ML Engineering, and building end-to-end AI pipelines.<br>⚡ Fun fact: I won the 44th edition of the Global Management Challenge, competing against over 480 teams!<br><br>
 
+---
+
+## 📂 **My Main Repositories**  
+
+🔹 **Machine Learning & Data Science**  
+- 📊 [**Machine-Learning-Projects**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Projects) - Collection of ML projects using Jupyter Notebooks.  
+- 🤖 [**ML_Interface**](https://github.com/jorgemiguelcordeiro/ML_Interface) - Interactive ML application for predictions.  
+- 📈 [**Statistics-for-Data-Science**](https://github.com/jorgemiguelcordeiro/Statistics-for-Data-Science) - Statistical analysis techniques for Data Science.  
+
+🔹 **SQL & Data Engineering**  
+- 🗃️ [**SQL-project-Storing-and-Retrieving-Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-) - SQL-based train management system.  
+
+🔹 **Data Mining & Analytics**  
+- ⛏️ [**Data-Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining) - Machine Learning models and insights from large datasets.  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmcordeiro/)
