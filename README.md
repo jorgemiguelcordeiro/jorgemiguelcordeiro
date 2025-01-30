@@ -1,4 +1,4 @@
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.novaims.unl.pt%2Fpt%2Fensino%2Fcursos%2Fpos-graduacoes-e-mestrados%2Fmestrado-em-data-driven-marketing-com-especializacao-em-marketing-intelligence-regime-pos-laboral%2Fcorpo-docente%2F&psig=AOvVaw0fKNiJkWdVS6OjWSTydmIa&ust=1738328300579000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiclIXAnYsDFQAAAAAdAAAAABAE)
+![Banner](university.jpeg)
 # 💫 About Me:
 🔭 I'm currently working in my master on: Building scalable Machine Learning and Data Engineering solutions.<br>🤝 I'm looking to collaborate on: Open-source projects related to ML Engineering, MLOps, and Big Data.<br>🌱 I'm currently learning: Reinforcement Learning, Text Mining, and Cloud-based MLOps strategies.<br>💬 Ask me about: Data Science, ML Engineering, and building end-to-end AI pipelines.<br>⚡ Fun fact: I won the 44th edition of the Global Management Challenge, competing against over 480 teams!<br><br>
 
