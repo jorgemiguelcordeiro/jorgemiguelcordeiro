@@ -1,4 +1,4 @@
-![Banner](image.jpeg)
+![Banner](image.png)
 # 💫 About Me:
 🔭 I'm currently working in my master on: Building scalable Machine Learning and Data Engineering solutions.<br>🤝 I'm looking to collaborate on: Open-source projects related to ML Engineering, MLOps, and Big Data.<br>🌱 I'm currently learning: Reinforcement Learning, Text Mining, and Cloud-based MLOps strategies.<br>💬 Ask me about: Data Science, ML Engineering, and building end-to-end AI pipelines.<br>⚡ Fun fact: I won the 44th edition of the Global Management Challenge, competing against over 480 teams!<br><br>
 
