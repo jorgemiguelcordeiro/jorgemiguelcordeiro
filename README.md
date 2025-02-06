@@ -19,7 +19,7 @@
 - ⛏️ [**Data-Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining)
   
 🔹 **LLMs**  
-- ⛏️ [**LLMs**]([https://github.com/jorgemiguelcordeiro/LLMs])
+- 🤖 [**LLMs**](https://github.com/jorgemiguelcordeiro/LLMs)
 
 ---
 
