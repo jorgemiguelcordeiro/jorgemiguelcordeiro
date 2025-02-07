@@ -21,7 +21,7 @@
 🔹 **LLMs**  
 - 🤖 [**LLMs**](https://github.com/jorgemiguelcordeiro/LLMs)
   
-🔹 **Deep learning + Computer Vision** 
+🔹 **Deep learning & Computer Vision** 
 - 👀 [**Computer Vision**](https://github.com/jorgemiguelcordeiro/Computer-vision)
 
 ---
