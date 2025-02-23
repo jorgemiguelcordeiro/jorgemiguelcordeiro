@@ -23,6 +23,7 @@
   
 🔹 **Deep learning & Computer Vision** 
 - 👀 [**Computer Vision**](https://github.com/jorgemiguelcordeiro/Computer-vision)
+- 👀 [**Deep Learning**](https://github.com/jorgemiguelcordeiro/Deep-Learning)
 
 ---
 
