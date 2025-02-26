@@ -11,7 +11,7 @@
 - 📊 [**Machine-Learning-Projects**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Projects) 
 - 🤖 [**ML_Interface**](https://github.com/jorgemiguelcordeiro/ML_Interface) 
 - 📈 [**Statistics-for-Data-Science**](https://github.com/jorgemiguelcordeiro/Statistics-for-Data-Science)
-- 🐍[**OOP-and-General-Programming**](https://github.com/jorgemiguelcordeiro/OOP-and-General-Programming) 
+- 🐍 [**OOP-and-General-Programming**](https://github.com/jorgemiguelcordeiro/OOP-and-General-Programming) 
 
 🔹 **SQL & Data Engineering**  
 - 🗃️ [**SQL-project-Storing-and-Retrieving-Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-) 
