@@ -8,16 +8,17 @@
 # 📂 **My Main Repositories**  
 
 🔹 **Machine Learning & Data Science**  
-- 📊 [**Machine-Learning-Projects**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Projects) 
+- 📊 [**Machine Learning Projects**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Projects) 
 - 🤖 [**ML_Interface**](https://github.com/jorgemiguelcordeiro/ML_Interface) 
-- 📈 [**Statistics-for-Data-Science**](https://github.com/jorgemiguelcordeiro/Statistics-for-Data-Science)
-- 🐍 [**OOP-and-General-Programming**](https://github.com/jorgemiguelcordeiro/OOP-and-General-Programming) 
+- 📈 [**Statistics for Data Science**](https://github.com/jorgemiguelcordeiro/Statistics-for-Data-Science)
+- 🐍 [**OOP and General Programming**](https://github.com/jorgemiguelcordeiro/OOP-and-General-Programming)
+- ⚙️ [**Machine Learning-Operations(MLOps)-**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Operations-MLOps-/tree/main)
 
 🔹 **SQL & Data Engineering**  
-- 🗃️ [**SQL-project-Storing-and-Retrieving-Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-) 
+- 🗃️ [**SQL_project _Storing_and_Retrieving_Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-) 
 
 🔹 **Data Mining & Analytics**  
-- ⛏️ [**Data-Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining)
+- ⛏️ [**Data Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining)
   
 🔹 **LLMs**  
 - 🤖 [**LLMs**](https://github.com/jorgemiguelcordeiro/LLMs)
