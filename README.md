@@ -17,7 +17,7 @@
 🔹 **SQL & Data Engineering**  
 - 🗃️ [**SQL_project _Storing_and_Retrieving_Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-) 
 
-🔹 **Data Mining & Analytics**  
+🔹 **Data Mining & NLP**  
 - ⛏️ [**Data Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining)
 - 🔤 [**Text Mining & NLP**](https://github.com/jorgemiguelcordeiro/Text-Mining-NLP)
   
