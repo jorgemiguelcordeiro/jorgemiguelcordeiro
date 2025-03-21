@@ -21,7 +21,7 @@
 - ⛏️ [**Data Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining)
 - 🔤 [**Text Mining & NLP**](https://github.com/jorgemiguelcordeiro/Text-Mining-NLP)
   
-🔹 **LLMs**  
+🔹 **LLMs and Recommendation Systems**  
 - 🤖 [**LLMs**](https://github.com/jorgemiguelcordeiro/LLMs)
 - 🤖 [**Recommendation Systems**](https://github.com/jorgemiguelcordeiro/Recommendation-Systems)
   
