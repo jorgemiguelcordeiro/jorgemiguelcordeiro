@@ -15,7 +15,8 @@
 - ⚙️ [**Machine Learning Operations (MLOps)**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Operations-MLOps-/tree/main)
 
 🔹 **SQL & Data Engineering**  
-- 🗃️ [**SQL_project _Storing_and_Retrieving_Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-) 
+- 🗃️ [**SQL_project _Storing_and_Retrieving_Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-)
+- 📊 [**Big Data**](https://github.com/jorgemiguelcordeiro/Big_data)
 
 🔹 **Data Mining & NLP**  
 - ⛏️ [**Data Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining)
