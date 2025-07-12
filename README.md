@@ -13,7 +13,7 @@
 - 📈 [**Statistics for Data Science**](https://github.com/jorgemiguelcordeiro/Statistics-for-Data-Science)
 - 🐍 [**OOP and General Programming**](https://github.com/jorgemiguelcordeiro/OOP-and-General-Programming)
 - ⚙️ [**Machine Learning Operations (MLOps)**](https://github.com/jorgemiguelcordeiro/Machine-Learning-Operations-MLOps-/tree/main)
-- 🤖 [**Reinforcement Learning**](https://github.com/jorgemiguelcordeiro/Reinforcement_Learning)
+- 🤖 [**Reinforcement Learning**](https://github.com/jorgemiguelcordeiro/Reinforcement-Learning)
 
 🔹 **SQL & Data Engineering**  
 - 🗃️ [**SQL_project _Storing_and_Retrieving_Data**](https://github.com/jorgemiguelcordeiro/SQL-project-Storing-and-Retrieving-Data-)
