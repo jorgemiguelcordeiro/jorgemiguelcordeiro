@@ -38,7 +38,7 @@
 - 👀 [**Computer Vision**](https://github.com/jorgemiguelcordeiro/Computer-vision)
 - 👀 [**Deep Learning**](https://github.com/jorgemiguelcordeiro/Deep-Learning)
 
-🔹 **Evolutionary-Computation-and-Optimization**
+🔹 **Evolutionary Computation & Optimization**
 - 🐍 [**Genetic Algorithms Project**](https://github.com/jorgemiguelcordeiro/Evolutionary-Computation-and-Optimization)
 
 ---
