@@ -1,7 +1,14 @@
 ![Banner](image.png)
 
 # 💫 About Me
-🔭 I'm currently working in my master on: Building scalable Machine Learning and Data Engineering solutions.<br>🤝 I'm looking to collaborate on: Open-source projects related to ML Engineering, MLOps, and Big Data.<br>🌱 I'm currently learning: Reinforcement Learning, Text Mining, and Cloud-based MLOps strategies.<br>💬 Ask me about: Data Science and ML Engineering.<br>⚡ Fun fact: I won the 44th edition of the Global Management Challenge, competing against 480 teams!<br><br>
+🔭 I'm currently a researcher at FCT (Foundation for Science and Technology), working on projects involving Machine Learning and Natural Language Processing (NLP).
+
+📚 As part of my Master's, I've been working with Large Language Models (LLMs), MLOps tools, Computer Vision, Reinforcement Learning, and Big Data.
+
+🤝 I'm open to collaborating on open-source projects related to ML Engineering, MLOps, and scalable data systems.
+
+⚡ Fun fact: I won the 44th edition of the Global Management Challenge, competing against 480 teams!
+
 
 ---
 
