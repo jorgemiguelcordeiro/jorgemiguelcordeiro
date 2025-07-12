@@ -7,7 +7,7 @@
 
 🤝 I'm open to collaborating on open-source projects related to ML Engineering, MLOps, and scalable data systems.
 
-⚡ Fun fact: I won the 44th edition of the Global Management Challenge, competing against 480 teams! For more click on: https://www.linkedin.com/feed/update/urn:li:activity:7245116161778978816/
+⚡ Fun fact: I won the 44th edition of the Global Management Challenge, competing against 480 teams! For more click [**here**](https://www.linkedin.com/feed/update/urn:li:activity:7245116161778978816/)
 
 
 ---
