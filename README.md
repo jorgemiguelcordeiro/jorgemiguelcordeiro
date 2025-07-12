@@ -35,7 +35,6 @@
 - 🤖 [**Recommendation Systems**](https://github.com/jorgemiguelcordeiro/Recommendation-Systems)
   
 🔹 **Deep learning & Computer Vision** 
-- 👀 [**Computer Vision**](https://github.com/jorgemiguelcordeiro/Computer-vision)
 - 👀 [**Deep Learning**](https://github.com/jorgemiguelcordeiro/Deep-Learning)
 
 🔹 **Evolutionary Computation & Optimization**
