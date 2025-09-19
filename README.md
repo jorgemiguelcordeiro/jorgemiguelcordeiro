@@ -30,7 +30,7 @@
 - ⛏️ [**Data Mining**](https://github.com/jorgemiguelcordeiro/Data-Mining)
 - 🔤 [**Text Mining & NLP**](https://github.com/jorgemiguelcordeiro/Text-Mining-NLP)
   
-🔹 **LLMs & Recommendation Systems**  
+🔹 **LLMs, Agentic AI, Chatbots & Recommendation Systems**  
 - 🤖 [**LLMs**](https://github.com/jorgemiguelcordeiro/LLMs)
 - 🤖 [**Recommendation Systems**](https://github.com/jorgemiguelcordeiro/Recommendation-Systems)
 - 🤖 [**Chatbots**](https://github.com/jorgemiguelcordeiro/Chatbots)
