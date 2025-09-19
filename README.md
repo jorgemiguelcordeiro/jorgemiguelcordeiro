@@ -33,6 +33,7 @@
 🔹 **LLMs & Recommendation Systems**  
 - 🤖 [**LLMs**](https://github.com/jorgemiguelcordeiro/LLMs)
 - 🤖 [**Recommendation Systems**](https://github.com/jorgemiguelcordeiro/Recommendation-Systems)
+- 🤖 [**Chatbots**](https://github.com/jorgemiguelcordeiro/Chatbots)
   
 🔹 **Deep learning & Computer Vision** 
 - 👀 [**Deep Learning**](https://github.com/jorgemiguelcordeiro/Deep-Learning)
